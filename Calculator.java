@@ -74,8 +74,6 @@ class Calculator implements ActionListener {
         jButton_equ.setFocusPainted(false);
         jButton_mul = new JButton("*");
         jButton_mul.setFocusPainted(false);
-//        bclr=new JButton("Clear");
-
 
         jTextField.setBounds(15, 15, 255, 45);
         jButton_c.setBounds(285, 15, 75, 45);
